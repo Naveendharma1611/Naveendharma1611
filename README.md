@@ -79,4 +79,4 @@ Aspiring Data Scientist | Python • SQL • Machine Learning
 <br>
 
 ## 🚀 GitHub Contributions
-[![Naveenkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveendharma1611&custom_title=Naveenkumar%20Dharmalingam's%20Contribution%20Graph&theme=github-compact&radius=15&area=true)](https://github.com/Naveendharma1611)
+[![Naveenkumar's github activity](https://github-readme-activity-graph.vercel.app/graph?username=Naveendharma1611&custom_title=Naveenkumar%20Dharmalingam's%20Contribution&theme=github-compact&radius=15&area=true)](https://github.com/Naveendharma1611)
