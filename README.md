@@ -1,18 +1,12 @@
-## Hi, I’m Naveen Kumar 👋  
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&weight=500&size=23&pause=1000&color=1FA8FF&center=true&vCenter=true&width=435&lines=Hey+There!!%F0%9F%91%8B;I'm+Naveenkumar+Dharmalingam%F0%9F%98%81" alt="Typing SVG" /></a>
+</h1>  
 ### Aspiring Data Scientist | Python • SQL • Machine Learning  
 
 ---
 * I am actively building my skills in **Data Science and Machine Learning**, focusing on **practical implementation** rather than just theory.
 
 * I strongly believe that **continuous learning, experimentation, and revisiting fundamentals** are key to long-term growth.
-
----
-
-## 🚀 Areas of Interest
-- 📊 Data Analysis & Visualization  
-- 🤖 Machine Learning fundamentals and models  
-- 🐍 Python programming for data-driven applications  
-- 🗄️ Writing efficient SQL queries for data extraction  
 
 ---
 
@@ -44,6 +38,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/naveendharma1611/)
 
 ---
+<br><br>
+<h1 align="center"> ✒️</h1>
+
+<h2 align="center"> <br><br>
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Learn%20%2C%20Experiment%20%2C%20Relearn&type=horizontal&author=Nethaji%20Nirmal&border=true&theme=agolia)](https://github.com/Naveendharma1611)
+
+</h2>
+<br>
 ### Learn • Experiment • Relearn 
 >  **“growth comes from consistency and curiosity.”**
 > 
